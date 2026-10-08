@@ -1,6 +1,6 @@
 # hey, i'm alex 👋
 
-an artist and student making little bits of creative software and doing some random vibe coding
+artist and student making little bits of creative software and doing some random vibe coding
 
 i'm not a coder, just curious about the technical world and trying things out  
 some of those experiments end up here
